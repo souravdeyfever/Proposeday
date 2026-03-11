@@ -1,7 +1,7 @@
 # Proposeday
 Overview:A playful and lighthearted web game where players try to click "Yes" on a proposal, but the "No" button keeps moving away to avoid being clicked. The goal is to click "Yes" before the "No" button escapes!
 
-Application link: suvis-love.streamlit.app
+Application link: [suvis-love.streamlit.app](https://suvis-love.streamlit.app/)
 
 Features:  
 
